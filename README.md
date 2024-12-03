@@ -17,7 +17,7 @@ Estoy en la búsqueda de una oportunidad que me permita ingresar al mercado IT y
 - **Otros**: RESTful APIs, Microservicios, Jira, Slack, Metodologías ágiles
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&langs_count=5&layout=compact&hide=html)](https://github.com/tuwus)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&langs_count=5&layout=compact&hide=html)
 
 ## 📫 Conectemos
-- [Mi LinkedIn]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/maximiliano-abel-marcos/)
+- [Mi LinkedIn](https://www.linkedin.com/in/maximiliano-abel-marcos)
