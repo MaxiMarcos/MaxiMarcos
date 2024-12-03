@@ -6,8 +6,8 @@ Estoy en la búsqueda de una oportunidad que me permita ingresar al mercado IT y
 ## 🧑‍💻 Sobre mí
 - 🌍 Vivo en **Córdoba Capital, Argentina**.
 - 💻 Actualmente estoy trabajando en un proyecto personal que integra **microservicios** para una API sobre gestión de cine.
-- 💬 Pregúntame sobre **Spring Boot**, **JPA**, **MySQL**, **Microservicios**, **API REST**.
-- 📚 Actualmente estoy aprendiendo y profundizando en patrones de diseño, así como en Spring Security.
+- 💬 Tengo sólidos conocimientos en el **desarrollo de APIs REST**, mediante **Java**, **Spring Boot**, **Hibernate**, **MySQL**, **Spring Security** y **Microservicios**
+- 📚 Actualmente estoy profundizando en patrones de diseño, así como en Spring Security. Busco mantenerme actualizado con las tecnologías que demanda el mercado, y siempre estoy abierto a aprender nuevas.
 
 ## 🚀 Habilidades
 - **Lenguajes de programación**: Java, JavaScript
