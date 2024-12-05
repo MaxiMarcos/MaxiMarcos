@@ -1,6 +1,6 @@
 # Hola, soy Maxi 👋
 
-Soy desarrollador backend, con experiencia creada mediante proyectos personales, en **Java**, **Spring Boot**, **Jpa**, **Hibernate**, **MySQL**, **Microservicios**, **Spring Security** y **Patrones de diseño**. Me apasiona construir soluciones eficientes y escalables, especialmente cuando se hacen en equipo. Creo firmemente que una comunicación clara y constructiva es clave para lograr objetivos exitosos, y trato de fomentar un ambiente de colaboración y aprendizaje continuo.
+Soy desarrollador backend, con experiencia creada mediante proyectos personales, en **Java**, **Spring Boot**, **Patron de diseño MVC**, **Hibernate**, **MySQL**, **Microservicios** y **Spring Security**. Me apasiona construir soluciones eficientes y escalables, especialmente cuando se hacen en equipo. Creo firmemente que una comunicación clara y constructiva es clave para lograr objetivos exitosos, y trato de fomentar un ambiente de colaboración y aprendizaje continuo.
 Estoy en la búsqueda de una oportunidad que me permita ingresar al mercado IT y poner en práctica mis habilidades, demostrando el valor que puedo aportar a un equipo.
 
 ## 🧑‍💻 Sobre mí
