@@ -14,7 +14,7 @@ Estoy en la búsqueda de una oportunidad que me permita ingresar al mercado IT y
 - **Frameworks**: Spring Boot, Spring security, Spring Cloud
 - **Bases de datos**: MySQL, PostgreSQL
 - **Herramientas**: Maven, Hibernate, Docker
-- **Otros**: RESTful APIs, Microservicios, Jira, Slack, Metodologías ágiles
+- **Otros**: MVC, Microservicios, Jira, Slack, Metodologías ágiles
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximarcos&langs_count=5&layout=compact&hide=html)](https://github.com/tuwus)
