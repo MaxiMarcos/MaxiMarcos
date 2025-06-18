@@ -1,14 +1,13 @@
 # Hola, soy Maxi 👋
 
-Soy desarrollador backend, con experiencia creada mediante proyectos personales, en **Java**, **Spring Boot**, **Patron de diseño MVC**, **Hibernate**, **MySQL**, **Microservicios** y **Spring Security**. Me apasiona construir soluciones eficientes y escalables, especialmente cuando se hacen en equipo. Creo firmemente que una comunicación clara y constructiva es clave para lograr objetivos exitosos, y trato de fomentar un ambiente de colaboración y aprendizaje continuo.
-Estoy en la búsqueda de una oportunidad que me permita ingresar al mercado IT y poner en práctica mis habilidades, demostrando el valor que puedo aportar a un equipo.
+Soy desarrollador backend, con experiencia creada mediante proyectos personales, en **Java**, **Spring Boot**, **MVC**, **Hibernate**, **MySQL**, **Microservicios** y **Spring Security**.
+Estoy en la búsqueda de una oportunidad que me permita ingresar al mercado IT, demostrar y poner en práctica mis habilidades, y crecer profesionalemente.
 
 ## 🧑‍💻 Sobre mí
 - 🌍 Vivo en **Córdoba Capital, Argentina**.
-- 💻 Actualmente estoy trabajando en un proyecto personal sobre una API orientada a solucionar la gestión web de una clínica médica.
-- 💻 Tengo conocimientos y experiencia práctica en el **desarrollo de APIs REST**, mediante **Java**, **Spring Boot**, **Hibernate**, **MySQL**, **Spring Security** y **Microservicios**
-- 📚 Busco mantenerme actualizado con las tecnologías que demanda el mercado, por lo que siempre estoy buscando aprender nuevas herramientas.
-
+- Estudio la Tecnicatura Superior de Desarrollo de Software en el Instituto Superior Politécnico de Córdoba.
+- Desarrollé **APIs REST** para sistemas de gestión de cine y de una clínica médica. Este tipo de proyectos me entusiasman porque me enfrentan a problemas concretos que requieren soluciones aplicables en entornos reales.
+  
 ## 🚀 Habilidades
 - **Lenguajes de programación**: Java, JavaScript
 - **Frameworks**: Spring Boot, Spring security, Spring Cloud
