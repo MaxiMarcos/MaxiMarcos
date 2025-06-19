@@ -3,6 +3,11 @@
 Soy desarrollador backend, con experiencia creada mediante proyectos personales, en **Java**, **Spring Boot**, **MVC**, **Hibernate**, **MySQL**, **Microservicios** y **Spring Security**.
 Estoy en la búsqueda de una oportunidad que me permita ingresar al mercado IT, demostrar y poner en práctica mis habilidades, y crecer profesionalemente.
 
+## Portfolio
+Te invito a visitar mi portfolio, donde podrás conocer mis proyectos:
+
+https://maximarcos.github.io/portfolio/
+
 ## 🧑‍💻 Sobre mí
 - 🌍 Vivo en **Córdoba Capital, Argentina**.
 - Estudio la Tecnicatura Superior de Desarrollo de Software en el Instituto Superior Politécnico de Córdoba.
