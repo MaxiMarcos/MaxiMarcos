@@ -1,7 +1,7 @@
 # Hola, soy Maxi 👋
 
 Soy desarrollador backend, con experiencia creada mediante proyectos personales, en **Java**, **Spring Boot**, **MVC**, **Hibernate**, **MySQL**, **Microservicios** y **Spring Security**.
-Estoy en la búsqueda de una oportunidad que me permita ingresar al mercado IT, demostrar y poner en práctica mis habilidades, y crecer profesionalemente.
+Estoy en la búsqueda de una oportunidad que me permita ingresar al mercado IT, aportar mi valor en un equipo y crecer profesionalemente.
 
 ## Portfolio
 Te invito a visitar mi portfolio, donde podrás conocer mis proyectos:
